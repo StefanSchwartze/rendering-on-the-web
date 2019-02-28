@@ -1,0 +1,29 @@
+{
+  "name": "rendering-on-the-web",
+  "version": "1.0.0",
+  "description": "This is a short talk about rendering on the web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StefanSchwartze/rendering-on-the-web"
+  },
+  "keywords": [
+    "web",
+    "rendering"
+  ],
+  "author": "Stefan Schwartze",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/StefanSchwartze/rendering-on-the-web/issues"
+  },
+  "homepage": "https://github.com/StefanSchwartze/rendering-on-the-web#readme",
+  "dependencies": {
+    "prismjs": "^1.15.0",
+    "reveal-md": "^3.0.1",
+    "reveal.js-menu": "^1.2.0",
+    "reveal.js-toolbar": "^0.1.5"
+  }
+}
